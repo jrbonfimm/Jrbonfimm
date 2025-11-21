@@ -1,4 +1,4 @@
-#   Júnior Bonfim
+#Júnior Bonfim
 
 **`Physicist focused on leveraging computational methods for scientific inquiry and data analysis`**
 
